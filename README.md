@@ -21,7 +21,7 @@ the source folder only includes these
 * .NET Framework
 * WinForms (Windows Forms)
 * C#
-📷
-## Screenshot
+
+## 📷 Screenshot
 ![screenshot](screenshot.png)
 
