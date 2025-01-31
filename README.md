@@ -2,6 +2,13 @@
 
 #  Calculator
 A simple and functional calculator built using .NET WinForms. Supports basic arithmetic operations with a clean and user-friendly interface.
+# ⚠️ attention 
+the source folder only includes these
+  * Form1.Designer.cs
+  * Form1.cs
+  * Form1.resx
+  * Program.cs
+
 
 ## 🚀 Features
 * Basic arithmetic operations:
@@ -17,3 +24,4 @@ A simple and functional calculator built using .NET WinForms. Supports basic ari
 📷
 ## Screenshot
 ![screenshot](screenshot.png)
+
